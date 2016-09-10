@@ -1,0 +1,17 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Achievers API SharePoint integration proxy server v1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "async": "^1.5.2",
+    "express": "^4.13.4",
+	"body-parser":"^1.15.0"
+  },
+  "author": "Sylvia Cung",
+  "license": "ISC"
+}
